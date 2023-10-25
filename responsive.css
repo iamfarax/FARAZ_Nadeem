@@ -1,0 +1,96 @@
+@media only screen and (max-width: 824px) {
+  .Nav_bar {
+    height: auto;
+    border-bottom: 1px solid #000;
+  }
+  .nav_list {
+    flex-direction: column;
+    align-items: center;
+  }
+  .nav_list li {
+    margin-top: 35px;
+  }
+  .burger {
+    display: block;
+  }
+  .h-nav-resp {
+    height: 8vh;
+  }
+  .v-nav-resp {
+    opacity: 0;
+  }
+  .section_1 {
+    height: 75vh;
+    width: 100%;
+    margin: 10% 0%;
+  }
+  .hc-2 {
+    font-size: 4rem;
+    text-align: center;
+  }
+  .c-link {
+    margin: 10% 0%;
+  }
+  .c-link a i {
+    font-size: 2rem;
+  }
+  .About-para {
+    width: 100%;
+    margin: 0% 0%;
+    padding: 1% 1%;
+    text-align: start;
+  }
+  .section-3 {
+    margin: 10% 0%;
+  }
+  .Sec-H {
+    margin: 10% 0%;
+  }
+  .card-section {
+    flex-direction: column;
+  }
+  .card-item {
+    width: 95%;
+    margin-top: 5%;
+  }
+  .f-half-card i {
+    font-size: 3rem;
+    margin-bottom: 30px;
+  }
+  .card-heading {
+    font-size: 2rem;
+  }
+  .card-para {
+    font-size: 23px;
+    margin-top: 5%;
+  }
+  .project-card-container {
+    flex-direction: column;
+    margin-top: 13%;
+  }
+  .project-card-item {
+    width: 100%;
+    margin: 8% 0%;
+    border-bottom: 18px solid #000;
+  }
+  .p-btn {
+    width: 80%;
+    padding: 3% 0%;
+    border-radius: 5px;
+  }
+  .footer {
+    flex-direction: column-reverse;
+    height: auto;
+  }
+  .footer-link {
+    margin: 8% 0%;
+  }
+  .footer-link i {
+    font-size: 2rem;
+    margin: 0% 2%;
+  }
+  .footer-para {
+    text-align: center;
+    margin: 4% 0%;
+  }
+}
